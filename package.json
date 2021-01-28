@@ -1,0 +1,22 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass -w SASS/main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tortikolis/recipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tortikolis/recipe/issues"
+  },
+  "homepage": "https://github.com/tortikolis/recipe#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
